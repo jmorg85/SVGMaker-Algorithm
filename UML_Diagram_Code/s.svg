@@ -1,0 +1,24 @@
+<svg 
+xmlns = 'http://www.w3.org/2000/svg'
+xmlns:xlink = 'http://www.w3.org/1999/xlink'
+version = '1.1'
+width = '300' height = '300'>
+     <circle cx = '50.0' cy = '800.0'
+r = '75.0'
+stroke = 'black' stroke-width = '10' 
+fill = 'rgb(0, 0, 0)'
+opacity = '0.75'/>
+  <rect x = '50.0' y = '50.0' 
+width = '100.0' height ='100.0'
+stroke = 'blue' stroke-width = '4' 
+fill = 'rgb(0, 0, 0)'
+opacity = '0.75'/>
+ <line x1 = '50.0' y1 = '25.0'
+x2 = '175.0' y2 = '200.0'
+stroke = 'blue' stroke-width = '4'/>
+ <path d = 'M50.0 50.0 L250.0 50.0 L100.0 200.0z'
+stroke = 'red' stroke-width = '2' 
+fill = 'rgb(0, 0, 0)'
+opacity = '0.75'/>
+
+</svg>
